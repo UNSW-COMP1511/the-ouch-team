@@ -1,1 +1,3 @@
-# COMP1511-Resources
+# The OUCH Project - OUCH Server/Client
+
+tbd :)
